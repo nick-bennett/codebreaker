@@ -1,8 +1,5 @@
 # Default ignored files
-/shelf/
+/codeStyles
+/shelf
 /workspace.xml
-# Datasource local storage ignored files
-/../../../../../../../../:\Users\Nicholas Bennett\Desktop\bootcamp\projects\codebreaker\.idea/dataSources/
-/dataSources.local.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+/vcs.xml
