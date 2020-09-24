@@ -1,4 +1,10 @@
 # Project exclude paths
+/.idea/codeStyles
+/.idea/shelf
+/.idea/workspace.xml
+/.idea/vcs.xml
+
+
 /out/
 
 .floo
